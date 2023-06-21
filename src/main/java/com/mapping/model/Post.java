@@ -70,4 +70,4 @@ public class Post {
 		return "Post [id=" + id + ", title=" + title + ", description=" + description + ", content=" + content + "]";
 	}
 	
-}//myname is chait
+}
